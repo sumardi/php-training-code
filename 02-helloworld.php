@@ -27,7 +27,7 @@
 			echo "Hello " . " World<br />";
 			
 			// simple math
-			echo 5 + 4;
+			echo "There are " . (365 * 24 * 60) . " minutes in a year";
 		?>
 	</body>
 </html>
